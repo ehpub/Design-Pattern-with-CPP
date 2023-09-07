@@ -10,3 +10,5 @@ Design Pattern with CPP
 - 원형 패턴 - Prototype Pattern: https://ehpub.co.kr/4-%ec%9b%90%ed%98%95-%ed%8c%a8%ed%84%b4prototype-pattern/
 
 - 단일체 패턴 - Singleton Pattern: https://ehpub.co.kr/5-%eb%8b%a8%ec%9d%bc%ec%b2%b4-%ed%8c%a8%ed%84%b4singleton-pattern/
+
+- 깊은 복사: https://ehpub.co.kr/%eb%94%94%eb%94%a4%eb%8f%8c-c-49-%eb%8c%80%ec%9e%85-%ec%97%b0%ec%82%b0%ec%9e%90-%ec%a4%91%eb%b3%b5-%ec%a0%95%ec%9d%98/
