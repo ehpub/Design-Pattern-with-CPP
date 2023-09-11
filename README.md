@@ -16,3 +16,5 @@ Design Pattern with CPP
 - 퍼샤드 패턴 - Facade Pattern : https://ehpub.co.kr/10-%ed%8d%bc%ec%82%ac%eb%93%9c-%ed%8c%a8%ed%84%b4facade-pattern/
 
 - 아답터 패턴 - Adapter Pattern : https://ehpub.co.kr/6-%ec%a0%81%ec%9d%91%ec%9e%90-%ed%8c%a8%ed%84%b4adapter-pattern/
+
+- 브리짓 패턴 - Bridge Pattern : https://ehpub.co.kr/7-%ea%b0%80%ea%b5%90-%ed%8c%a8%ed%84%b4bridge-pattern/
